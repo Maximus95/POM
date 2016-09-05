@@ -1,0 +1,6 @@
+1 111 Administrator Zhandos Zhangilishbay
+2 12345 SalesManager Sam Pidr
+3 pidrila PurchaseManager Bob Xuiob
+4 4444 SalesManager Alex Uebok
+5 123 SalesManager Sam Smith
+6 123 PurchaseManager Johj Johjn
